@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author jissi
- *
- */
-module Exo {
-}
